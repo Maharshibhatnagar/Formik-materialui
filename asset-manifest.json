@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Formik-materialui/static/css/main.4a71c07b.css",
+    "main.js": "/Formik-materialui/static/js/main.625d37d8.js",
+    "index.html": "/Formik-materialui/index.html",
+    "main.4a71c07b.css.map": "/Formik-materialui/static/css/main.4a71c07b.css.map",
+    "main.625d37d8.js.map": "/Formik-materialui/static/js/main.625d37d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a71c07b.css",
+    "static/js/main.625d37d8.js"
+  ]
+}
