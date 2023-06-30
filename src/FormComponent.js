@@ -118,9 +118,9 @@ const FormComponent = () => {
           </Grid>
 
           <Grid item xs={12}>
-            <Field as={Checkbox} name="hobbies" value="Football" label="Football" />
-            <Field as={Checkbox} name="hobbies" value="Cricket" label="Cricket" />
-            <Field as={Checkbox} name="hobbies" value="Badminton" label="Badminton" />
+            <Field as={Checkbox} name={hobbies}value="Football" label="Football" />
+            <Field as={Checkbox} name={hobbies}value="Cricket" label="Cricket" />
+            <Field as={Checkbox} name= {hobbies}value="Badminton" label="Badminton" />
           </Grid>
 
           <Grid item xs={12}>
